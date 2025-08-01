@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# NLTK data
+nltk_data/
+
+# Environment
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
