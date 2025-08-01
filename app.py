@@ -8,6 +8,9 @@ from collections import Counter
 import pandas as pd
 
 nltk.download('punkt_tab')
+nltk.download('stopwords')
+nltk.download('wordnet')
+
 st.set_page_config(page_title="NLP Preprocessing Visualizer",layout='wide')
 st.title("NLP Preprocessing Visualization")
 
